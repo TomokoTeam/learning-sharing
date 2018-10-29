@@ -8,3 +8,19 @@
 |  金铭  | 2018/08/20 |               [http 基础知识](https://www.jianshu.com/p/a8eb6aef97cc)                |
 |  丁梅  | 2018/08/21 |    [作用域及作用域链](https://blog.csdn.net/d1105260363/article/details/81979292)    |
 | 李雅君 | 2018/08/22 |             [ES6 的模块加载方案](https://www.jianshu.com/p/39c40db654ab)             |
+| 田园丰 | 2018/08/23 |                                 中国地图 code review                                 |
+| 王建武 | 2018/08/27 |            [浅拷贝和深拷贝（一）](https://www.jianshu.com/p/a68d491f8269)            |
+|  吕杰  | 2018/08/31 |                                       css 基础                                       |
+| 郑国雷 | 2018/09/03 |             [JS 数据类型（二）](https://www.jianshu.com/p/943a9761c107)              |
+|  谭超  | 2018/08/30 |                                  白名单 code review                                  |
+|  金铭  | 2018/08/31 |               [Http-CORS 跨域](https://www.jianshu.com/p/bb850d843e86)               |
+|  丁梅  | 2018/09/05 |          [闭包](https://blog.csdn.net/d1105260363/article/details/82315554)          |
+| 李雅君 | 2018/09/06 |                             新建画布流程更改 code review                             |
+| 田园丰 | 2018/09/10 |           [this 用法(二)](https://juejin.im/post/5b91eec26fb9a05d07191da6)           |
+| 王建武 | 2018/08/28 |            [浅拷贝和深拷贝（二）](https://www.jianshu.com/p/a68d491f8269)            |
+|  吕杰  | 2018/09/06 |                                     JS 正则匹配                                      |
+| 郑国雷 | 2018/09/13 |                                 ECharts code review                                  |
+|  谭超  | 2018/09/12 |                             sessionStorage, localStorage                             |
+|  金铭  | 2018/09/17 |                                     CSS 书写规范                                     |
+|  丁梅  | 2018/09/18 |                                    HTML 代码规范                                     |
+| 李雅君 | 2018/09/19 |         [JavaScript 设计模式（一）](https://www.jianshu.com/p/b2a434fa84bb)          |
