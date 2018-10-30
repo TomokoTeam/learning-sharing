@@ -21,6 +21,22 @@
 |  吕杰  | 2018/09/06 |                                     JS 正则匹配                                      |
 | 郑国雷 | 2018/09/13 |                                 ECharts code review                                  |
 |  谭超  | 2018/09/12 |                             sessionStorage, localStorage                             |
-|  金铭  | 2018/09/17 |                                     CSS 书写规范                                     |
+|  金铭  | 2018/09/17 |                [CSS 书写规范](https://www.jianshu.com/p/59db3f0acd86)                |
 |  丁梅  | 2018/09/18 |                                    HTML 代码规范                                     |
 | 李雅君 | 2018/09/19 |         [JavaScript 设计模式（一）](https://www.jianshu.com/p/b2a434fa84bb)          |
+| 田园丰 | 2018/10/15 |                                      Redux 基础                                      |
+| 王建武 | 2018/09/20 |                                  条形图 code review                                  |
+|  吕杰  | 2018/10/17 |                             发布-订阅者模式 code review                              |
+| 郑国雷 | 2018/10/16 |                                  JS 数据类型（三）                                   |
+|  谭超  | 2018/10/22 |                                      http 缓存                                       |
+|  金铭  | 2018/10/23 |                 [HTTP 缓存](https://www.jianshu.com/p/65739164e22b)                  |
+|  丁梅  |            |                                                                                      |
+| 李雅君 |            |                                                                                      |
+| 田园丰 |            |                                                                                      |
+| 王建武 | 2018/10/29 |               [npm 总结（一）](https://www.jianshu.com/p/921e0b89909b)               |
+|  吕杰  |            |                                                                                      |
+| 郑国雷 |            |                                                                                      |
+|  谭超  |            |                                                                                      |
+|  金铭  |            |                                                                                      |
+|  丁梅  |            |                                                                                      |
+| 李雅君 |            |                                                                                      |
